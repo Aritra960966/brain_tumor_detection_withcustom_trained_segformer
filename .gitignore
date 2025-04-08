@@ -1,0 +1,11 @@
+__pycache__/
+*.pth
+*.pt
+*.pyc
+.DS_Store
+.env
+venv/
+.idea/
+.kaggle.json
+*.ipynb_checkpoints
+brain_tumor/
